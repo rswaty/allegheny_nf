@@ -1,6 +1,6 @@
 ---
-title: ""
-author: ""
+title: "Allegheny National Forest Web Report"
+author: "Isabel Nykamp, Randy Swaty"
 ---
 
 ## Goals of this demonstration
