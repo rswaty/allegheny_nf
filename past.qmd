@@ -18,9 +18,9 @@ NEED TO FILL IN
 
 ## Most Prevalent Biophysical Settings
 
-![](images/bps.jpg){width="100%"} <br>
+![](images/bps.png){width="100%"} <br>
 
-```{r bps chart, message=FALSE, warning=FALSE, echo=FALSE, fig.width=10, fig.height=10}
+```{r bps chart, message=FALSE, warning=FALSE, echo=FALSE, fig.width=10, fig.height=6}
 library(tidyverse)
 library(scales)
 library(stringr)
@@ -32,14 +32,14 @@ bpsname <- bps_data %>%
   summarize(ACRES = sum(ACRES),
             REL_PERCENT = sum(REL_PERCENT)) %>%
   arrange(desc(REL_PERCENT)) %>%
-  top_n(n = 10, wt = REL_PERCENT)
+  top_n(n = 4, wt = REL_PERCENT)
 
 # plot
 bpsChart <- 
   ggplot(data = bpsname, aes(x = BPS_NAME, y = REL_PERCENT)) +
   geom_bar(stat = "identity") +
   labs(
-    title = "Top 10 Biophysical Settings",
+    title = "Top 4 Biophysical Settings",
     caption = "Data from landfire.gov",
     x = "",
     y = "Percent of landscape") +
@@ -54,14 +54,14 @@ bpsChart
 
 ## Historic Annual Acres Burned (per ecosystem)
 
-```{r fire bar, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=10}
+```{r fire bar, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=6}
 # read bps attribute table .csv and summarize
 
 # quick filter bps data (to match top 10 of BpSs)
-bps_data10 <- bps_data %>%
-  top_n(n = 11, wt = REL_PERCENT)
+bps_data4 <- bps_data %>%
+  top_n(n = 4, wt = REL_PERCENT)
 
-annualFire <- bps_data10 %>%
+annualFire <- bps_data4 %>%
   mutate(annual_fire_acres = ((1/FRI_ALLFIR)*ACRES)) %>%
   filter(BPS_NAME != 'Open Water') %>%
   group_by(BPS_NAME) %>%
@@ -87,14 +87,14 @@ fireChart <-
 fireChart
 
 # if the plot looks good, save it
-ggsave("./OUTPUTS/fireChart.png", width = 12, height = 5)
+#ggsave("./OUTPUTS/fireChart.png", width = 12, height = 5)
 ```
 
 <br>
 
 ## Top Historical Fire Regimes
 
-![](images/mfri.jpg){width="100%"}
+![](images/mfri.png){width="100%"}
 
 <br>
 
@@ -111,7 +111,7 @@ library(plotly)
 
 
 # This code reads a CSV file named "bps_aoi_disturbances.csv" from the "data" directory into a data frame.
-bps_aoi_disturbances <- read_csv("data/bps_aoi_disturbances10.csv") 
+bps_aoi_disturbances <- read_csv("data/bps_aoi_disturbances.csv") 
 
 # The data frame is then filtered to exclude certain values in the "TransitionGroupID" column. 
 # The excluded values are: "All Fire", "All Transitions", "Alternative Succession", 

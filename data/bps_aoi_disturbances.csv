@@ -1,0 +1,88 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","...1","BLUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","13020_63",0.0004796,"Laurentian-Acadian Northern Hardwoods Forest",8,0,890,0.1,0.426844
+"2","All Fire","13210_61_63",0.0128164,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,22.8644576
+"3","All Fire","13660_51_63_64_65_66",0.0064298,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.1736046
+"4","All Fire","13690_60_61_63_64_65_66",0.072849,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,6161.277024
+"5","All Fire","13700_60_63_64_65_66",0.0018484,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,1059.5842096
+"6","All Fire","13770_60_61_63_64_65_66",0.0054236,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.0650832
+"7","All Fire","14720_61_62_63",0.0060214,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,275.3044294
+"8","All Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,322.2435016
+"9","All Fire","14770_63_64_65_66",0.0068772,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.722106
+"10","All Fire","14790_60_61_63_64_65_66",0.0017616,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,7.4903232
+"11","All Transitions","13020_63",0.0018532,"Laurentian-Acadian Northern Hardwoods Forest",8,0,890,0.1,1.649348
+"12","All Transitions","13210_61_63",0.019996,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,35.672864
+"13","All Transitions","13660_51_63_64_65_66",0.007392,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.199584
+"14","All Transitions","13690_60_61_63_64_65_66",0.1013044,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,8567.9209344
+"15","All Transitions","13700_60_63_64_65_66",0.0154658,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,8865.6770552
+"16","All Transitions","13770_60_61_63_64_65_66",0.180852,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,2.170224
+"17","All Transitions","14720_61_62_63",0.024128,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,1103.156288
+"18","All Transitions","14750_41_50_51_63_64_65_66",0.2307958,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,4352.1164006
+"19","All Transitions","14770_63_64_65_66",0.0202746,"Boreal Acidic Peatland Systems",11,0.541176,105,0,2.128833
+"20","All Transitions","14790_60_61_63_64_65_66",0.0098428,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,41.8515856
+"21","Alternative Succession","13020_63",0.0003944,"Laurentian-Acadian Northern Hardwoods Forest",8,0,890,0.1,0.351016
+"22","Alternative Succession","13210_61_63",0.0006494,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,1.1585296
+"23","Alternative Succession","13690_60_61_63_64_65_66",0.004916,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,415.775616
+"24","Alternative Succession","13700_60_63_64_65_66",0.0063324,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,3630.0103056
+"25","Alternative Succession","13770_60_61_63_64_65_66",0.082064,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.984768
+"26","Insect or Disease","13210_61_63",0.0024756,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,4.4164704
+"27","Insect or Disease","13770_60_61_63_64_65_66",0.007502,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.090024
+"28","Insect or Disease","14770_63_64_65_66",0.0018098,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.190029
+"29","Mixed Fire","13210_61_63",0.0017656,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,3.1498304
+"30","Mixed Fire","13660_51_63_64_65_66",0.0009764,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.0263628
+"31","Mixed Fire","13690_60_61_63_64_65_66",0.0021676,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,183.3269376
+"32","Mixed Fire","13700_60_63_64_65_66",0.0008946,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,512.8240824
+"33","Mixed Fire","13770_60_61_63_64_65_66",0.0026694,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.0320328
+"34","Mixed Fire","14750_41_50_51_63_64_65_66",0.00232,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,43.74824
+"35","Non Fire Disturbances","13020_63",0.0009792,"Laurentian-Acadian Northern Hardwoods Forest",8,0,890,0.1,0.871488
+"36","Non Fire Disturbances","13210_61_63",0.0065302,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,11.6498768
+"37","Non Fire Disturbances","13660_51_63_64_65_66",0.0009622,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.0259794
+"38","Non Fire Disturbances","13690_60_61_63_64_65_66",0.0235394,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,1990.8682944
+"39","Non Fire Disturbances","13700_60_63_64_65_66",0.007285,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,4176.08254
+"40","Non Fire Disturbances","13770_60_61_63_64_65_66",0.0933644,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,1.1203728
+"41","Non Fire Disturbances","14720_61_62_63",0.0181066,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,827.8518586
+"42","Non Fire Disturbances","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,4029.872899
+"43","Non Fire Disturbances","14770_63_64_65_66",0.0133974,"Boreal Acidic Peatland Systems",11,0.541176,105,0,1.406727
+"44","Non Fire Disturbances","14790_60_61_63_64_65_66",0.0080812,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,34.3612624
+"45","Non Replacement Fire","13210_61_63",0.011596,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,20.687264
+"46","Non Replacement Fire","13660_51_63_64_65_66",0.0043526,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.1175202
+"47","Non Replacement Fire","13690_60_61_63_64_65_66",0.06733,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,5694.50208
+"48","Non Replacement Fire","13700_60_63_64_65_66",0.0008946,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,512.8240824
+"49","Non Replacement Fire","13770_60_61_63_64_65_66",0.0028944,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.0347328
+"50","Non Replacement Fire","14720_61_62_63",0.00502,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,229.51942
+"51","Non Replacement Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,322.2435016
+"52","Non Replacement Fire","14770_63_64_65_66",0.0057966,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.608643
+"53","Non Replacement Fire","14790_60_61_63_64_65_66",0.0007632,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,3.2451264
+"54","Optional 1","14720_61_62_63",0.0030236,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,138.2420156
+"55","Optional 1","14750_41_50_51_63_64_65_66",0.1992052,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,3756.4124564
+"56","Optional 1","14770_63_64_65_66",0.0087432,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.918036
+"57","Optional 2","14720_61_62_63",0.0100842,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,461.0597082
+"58","Optional 2","14750_41_50_51_63_64_65_66",0.0145018,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,273.4604426
+"59","Optional Types","14720_61_62_63",0.0131078,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,599.3017238
+"60","Optional Types","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,4029.872899
+"61","Optional Types","14770_63_64_65_66",0.0087432,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.918036
+"62","Replacement Fire","13020_63",0.0004796,"Laurentian-Acadian Northern Hardwoods Forest",8,0,890,0.1,0.426844
+"63","Replacement Fire","13210_61_63",0.0012204,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,2.1771936
+"64","Replacement Fire","13660_51_63_64_65_66",0.0020772,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.0560844
+"65","Replacement Fire","13690_60_61_63_64_65_66",0.005519,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,466.774944
+"66","Replacement Fire","13700_60_63_64_65_66",0.0009538,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,546.7601272
+"67","Replacement Fire","13770_60_61_63_64_65_66",0.0025292,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.0303504
+"68","Replacement Fire","14720_61_62_63",0.0010014,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,45.7850094
+"69","Replacement Fire","14770_63_64_65_66",0.0010806,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.113463
+"70","Replacement Fire","14790_60_61_63_64_65_66",0.0009984,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,4.2451968
+"71","Surface Fire","13210_61_63",0.0098304,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,17.5374336
+"72","Surface Fire","13660_51_63_64_65_66",0.0033762,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.0911574
+"73","Surface Fire","13690_60_61_63_64_65_66",0.0651624,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,5511.1751424
+"74","Surface Fire","13770_60_61_63_64_65_66",0.000225,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,0.0027
+"75","Surface Fire","14720_61_62_63",0.00502,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,229.51942
+"76","Surface Fire","14750_41_50_51_63_64_65_66",0.0147688,"Laurentian-Acadian Floodplain Systems",4,0.960784,18857,2.5,278.4952616
+"77","Surface Fire","14770_63_64_65_66",0.0057966,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.608643
+"78","Surface Fire","14790_60_61_63_64_65_66",0.0007632,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,3.2451264
+"79","Wind or Weather or Stress","13020_63",0.0009792,"Laurentian-Acadian Northern Hardwoods Forest",8,0,890,0.1,0.871488
+"80","Wind or Weather or Stress","13210_61_63",0.0040546,"South-Central Interior Mesophytic Forest",7,0.580392,1784,0.2,7.2334064
+"81","Wind or Weather or Stress","13660_51_63_64_65_66",0.0009622,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",9,0.388235,27,0,0.0259794
+"82","Wind or Weather or Stress","13690_60_61_63_64_65_66",0.0235394,"Central Appalachian Dry Oak-Pine Forest",2,0.862745,84576,11.4,1990.8682944
+"83","Wind or Weather or Stress","13700_60_63_64_65_66",0.007285,"Appalachian (Hemlock-)Northern Hardwood Forest",1,0.568627,573244,77.4,4176.08254
+"84","Wind or Weather or Stress","13770_60_61_63_64_65_66",0.0858624,"Central Appalachian Pine-Oak Rocky Woodland",10,0.301961,12,0,1.0303488
+"85","Wind or Weather or Stress","14720_61_62_63",0.0049988,"Central Interior and Appalachian Riparian Systems",3,0.078431,45721,6.2,228.5501348
+"86","Wind or Weather or Stress","14770_63_64_65_66",0.0028444,"Boreal Acidic Peatland Systems",11,0.541176,105,0,0.298662
+"87","Wind or Weather or Stress","14790_60_61_63_64_65_66",0.0080812,"Central Interior and Appalachian Swamp Systems",6,1,4252,0.6,34.3612624

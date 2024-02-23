@@ -66,7 +66,7 @@ quickmap
 
 ## How to use this web report
 
-* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Melanie Rudolf](mailto:melanie.rudolf@tnc.org), Nature Conservancy Ecologists.
+* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"} and [Isabel Nykamp](mailto:ialatvaitis@hotmail.com).
 * Review is ongoing.
 * To share this web app, simply share the hyperlink.
 * Toggle between dark and light display of this site in the upper right corner of the page.
