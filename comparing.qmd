@@ -37,9 +37,9 @@ chord_df <- read_csv("data/bps2evt_chord.csv")
 matrix_df <- as.matrix(as_adjacency_matrix(as_tbl_graph(chord_df),attr = "ACRES"))
 
 #clean up matrix (could be cleaner!)
-matrix_df = subset(matrix_df, select = -c(1:5))
+matrix_df = subset(matrix_df, select = -c(1:3))
 
-matrix_df <- matrix_df[-c(6:13),]
+matrix_df <- matrix_df[-c(4:10),]
 
 #make a custom color pallet #eb4034 (redish) #b0af9e(grey)
 
